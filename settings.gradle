@@ -1,0 +1,2 @@
+rootProject.name = "BSM1"
+include ':app'
